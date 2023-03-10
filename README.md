@@ -30,7 +30,9 @@ I believe that coding is an iterative process and that feedback is key to improv
 
 ## 📫 Get in Touch
 LinkedIn: <https://www.linkedin.com/in/spencer-saunders-developer>
+
 Email: <4lg3r1c9@duck.com>
+
 Feel free to reach out to me if you have any questions or want to discuss potential collaborations!
 
 <!---
