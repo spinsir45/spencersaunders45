@@ -35,6 +35,10 @@ Email: <4lg3r1c9@duck.com>
 
 Feel free to reach out to me if you have any questions or want to discuss potential collaborations!
 
+## My Stats
+[![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencersaunders45&show_icons=true&theme=dracula)](https://github.com/spencersaunders45/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencersaunders45&layout=compact&theme=dracula)](https://github.com/spencersaunders45/github-readme-stats)
+
 <!---
 spencersaunders45/spencersaunders45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
