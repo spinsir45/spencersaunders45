@@ -13,6 +13,10 @@ I'm a computer science major with an emphasis in Machine Learning at Brigham You
 - Object-Oriented Programming (OOP)
 - Git
 - GitHub
+- GitLab
+- Linux
+- CI Pipeline
+- Docker
 
 ## 🔭 My Projects
 Here are a few projects that I have worked on:
