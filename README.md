@@ -2,10 +2,6 @@
 I'm a computer science major with an emphasis in Machine Learning at Brigham Young University - Idaho, and a certified Full Stack Web Developer from Coding Dojo. I'm passionate about coding and have a solid foundation in algorithm design and object-oriented programming. I'm proficient in languages such as C++, C, C#, Java, Python, and SQL, and I'm familiar with Git and GitHub.
 
 ## 💻 Skills and Expertise
-- C++
-- C
-- C#
-- Java
 - Python
 - SQL
 - Selenium
