@@ -1,34 +1,17 @@
-# Hi there, I'm Spencer! 👋
-I'm a computer science major with an emphasis in Machine Learning at Brigham Young University - Idaho, and a certified Full Stack Web Developer from Coding Dojo. I'm passionate about coding and have a solid foundation in algorithm design and object-oriented programming. I'm proficient in languages such as C++, C, C#, Java, Python, and SQL, and I'm familiar with Git and GitHub.
+# Hi there 👋, I'm Spencer Saunders!
 
-## 💻 Skills and Expertise
-- Python
-- SQL
-- Selenium
-- Algorithm Design
-- Object-Oriented Programming (OOP)
-- Git
-- GitHub
-- GitLab
-- Linux
-- CI Pipeline
-- Docker
+## About Me
+- 🎓 I’m currently earning my B.S. in Computer Science at BYU-I.
+  - Graduate: July 2024
+- 💻 Currently working at Idaho National Laboratory as an Embedded Systems Enigneer - Intern.
 
-## 🔭 My Projects
-Here are a few projects that I have worked on:
+## Languages and Tools:
+Python, C/C++, C#, Rust (learning), Seleinium, Tkinter, CI/CD, 
 
-- BYUI-IT - Uses Python and Selenium to automate the workflows in the schools ticketing system
-- Project 2 - Description of Project 2
-- Project 3 - Description of Project 3
+## Projects
+My favorite projects are pinned below.
 
-
-## 🚀 Professional Experience
-Currently, I work as an Application System Engineer Assistant at BYU-I, where I use Python, Selenium, and OOP principles to write clean, readable, and efficient code that automates work processes. One of my notable achievements is automating the updating of over 12,000 accounts in BYU-I's ticketing application, as well as automating the finding and merging of duplicate accounts in the system. I also place a strong emphasis on documentation to ensure that my code is easy to understand and maintain.
-
-## 🌱 Approach to Coding
-I believe that coding is an iterative process and that feedback is key to improving your skills. I take pride in writing clean, readable, and efficient code that can be easily maintained and scaled. I'm always looking to learn new technologies and approaches to problem-solving.
-
-## 📫 Get in Touch
+***
 LinkedIn: <https://www.linkedin.com/in/spencer-saunders-developer>
 
 <!---
